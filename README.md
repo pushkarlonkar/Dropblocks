@@ -27,7 +27,7 @@ here the user can download the file if he wants by clcking the download button .
 ![download](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/Download.png)
 
 The user can view the details of the transaction if he wants 
-![transaction]()
+![transaction](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/transaction.png)
 ## Getting Started
 
 ### Dependencies
