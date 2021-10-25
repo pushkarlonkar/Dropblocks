@@ -30,55 +30,48 @@ The user can view the details of the transaction if he wants
 ![transaction](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/transaction.png)
 ## Getting Started
 
-### Dependencies
+## Built With 
+  * [React.js](https://reactjs.org/)
+  * [Solidity](https://soliditylang.org/)
+  * [web3.js](https://web3js.readthedocs.io/en/v1.5.2/)
+  * [Materialize](https://materializecss.com/)
+  * [Javascript](https://www.javascript.com/)
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+* Install truffle 
+ ```
+npm install truffle -g
+```
+* clone the repository 
+ ```
+git clone https://github.com/Pushkarlonkar/LostAndFound.git
+```
+* Install necessary dependencies
+ ```
+npm install
+```
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+#### In Parent Folder
+* Compile Contracts
 ```
-code blocks for commands
+truffle compile
 ```
-
-## Help
-
-Any advise for common problems or issues.
+* Migrate the Contract to the  blockchain
 ```
-command to run if program contains helper info
+truffle migrate 
+truffle migrate --reset
 ```
+#### In Client Folder
+* start react app  
+```
+cd client
+npm start
+```
+## Further Improvements 
+Currently this is a single user app it can be upgraded to support multiple users .
+Login / Register page can be added 
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
