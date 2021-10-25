@@ -9,8 +9,7 @@ In todays world we live under a monoply of big corporations and are dependent on
 tamper with our files. We have heard about various examples of these comppanies deleting some files, data just because they thought it as inappropriate
 DropBlocks is a secure way to store our files once the files are uploaded noone other than the uploader can tamper with the files 
 
-// view
-![view](https://github.com/Pushkarlonkar/Dropblocks/assets/view.png);
+![upload](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/upload.png)
 
 on clicking the choose file button a window will popup that wlll allow user to choose file from the system . User can enter description for the file if he wants. After clicking the upload button 
 a transaction would get initiated.
@@ -20,13 +19,15 @@ This hash value is then stored onto the etherium blockchain . Once stored in the
 
 Once uploaded the file will be visible in the view section 
 
-// view
+![view](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/view.png)
+
 
 here the user can download the file if he wants by clcking the download button . 
 
-// download 
+![download](https://github.com/Pushkarlonkar/Dropblocks/blob/master/assets/Download.png)
 
-
+The user can view the details of the transaction if he wants 
+![transaction]()
 ## Getting Started
 
 ### Dependencies
