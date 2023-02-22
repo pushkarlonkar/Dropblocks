@@ -15,7 +15,7 @@ on clicking the choose file button a window will popup that wlll allow user to c
 a transaction would get initiated.
 
 The file will then be added to the IPFS . IPFS is a peer to peer network for storing and sharing data in distributed file system . Ipfs will generate a hash value which will be unique for a every file 
-This hash value is then stored onto the etherium blockchain . Once stored in the blockchain it cannot be changed thus ensuring security of the data 
+This hash value is then stored onto the etherum blockchain . Once stored in the blockchain it cannot be changed thus ensuring security of the data 
 
 Once uploaded the file will be visible in the view section 
 
