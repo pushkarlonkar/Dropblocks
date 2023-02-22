@@ -7,7 +7,7 @@ DROPBLOCKS is a decentralized file storage system
 so what is the purpose of this project
 In todays world we live under a monoply of big corporations and are dependent on them for storing and accesing our private files. These corporations if they wish could easily access,use
 tamper with our files. We have heard about various examples of these comppanies deleting some files, data just because they thought it as inappropriate
-DropBlocks is a secure way to store our files once the files are uploaded noone other than the uploader can tamper with the files 
+DropBlocks is a secure way to store our files once the files are uploaded no one other than the uploader can tamper with the files 
 
 ![upload](https://drive.google.com/uc?export=view&id=1auU2fvpEWyAXuTmR8z9s3F0GyOON-H2l)
 
